@@ -1,0 +1,10 @@
+STRINGS
+https://docs.google.com/presentation/d/1Uq2m3bUbsJ1FjHhOoN9fLYAaQ1iHi1_9MV8TvLUBhoE/edit#slide=id.p61
+FILES
+https://docs.google.com/presentation/d/1qfAQkiubVzscnabgRSc4t9PUBjOiv16ONey-qHpoa1Y/edit#slide=id.p61
+LISTS
+https://docs.google.com/presentation/d/1KpQt77Irb54bEDSvEd1_XQwetDDLiVRNSFLOkat3CQM/edit#slide=id.p49
+DICT
+https://docs.google.com/presentation/d/11SzCVOl7STSxLZjE8hUO-uvob1KowxguJ74f3zdS7SU/edit#slide=id.p62
+TUPLES
+https://docs.google.com/presentation/d/1MW9UdO_DFo6RzNtMexDINT0ufYUPV4rUQObAh-YdCz8/edit#slide=id.p4

@@ -15,4 +15,4 @@ listItems = lst.items()
 listItems.sort()
 
 # Print
-for k, v in listItems : print k, v
+for k, v in listItems cmd : print k, v

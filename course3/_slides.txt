@@ -1,6 +1,5 @@
 ALL
 https://drive.google.com/folderview?id=0B7X1ycQalUnyal9yeUx3VW81VDg&usp=sharing#
-
 REGEX
 https://docs.google.com/presentation/d/1x7AyMWJqL6w15ig-xZ6vTDsnaqxkIcumLueCVs0RpCI/edit#slide=id.p49
 HTTP

@@ -29,5 +29,5 @@ for line in text:
         print (extraPath + line, file = output)
 
 # Print Stats
-print ("Lines Read", read)
-print ("Lines Modified", modified)
+print ("Lines Read:", read)
+print ("Lines Modified:", modified)
